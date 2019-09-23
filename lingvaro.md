@@ -3,7 +3,7 @@ Copyright (c) 2019, Luis Quesada Torres - https://github.com/lquesada | www.luis
 
 Homepage: https://github.com/lquesada/Lingvaro
 
-lingvaro.tsv contains the tab-separated-value source file and lingvaro.sh contains the script to generate this page from the source file. Download it and add this script to your .bashrc file to be able to query lingvaro from the console:
+[lingvaro.tsv](lingvaro.tsv) contains the tab-separated-value source file and lingvaro.sh contains the script to generate this page from the source file. Download it and add this script to your .bashrc file to be able to query lingvaro from the console:
 
 ```
 ###
